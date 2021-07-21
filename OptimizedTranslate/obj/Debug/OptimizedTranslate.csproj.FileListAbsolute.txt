@@ -1,0 +1,7 @@
+C:\Users\91999\source\repos\OptimizedTranslate\OptimizedTranslate\bin\Debug\OptimizedTranslate.exe.config
+C:\Users\91999\source\repos\OptimizedTranslate\OptimizedTranslate\bin\Debug\OptimizedTranslate.exe
+C:\Users\91999\source\repos\OptimizedTranslate\OptimizedTranslate\bin\Debug\OptimizedTranslate.pdb
+C:\Users\91999\source\repos\OptimizedTranslate\OptimizedTranslate\obj\Debug\OptimizedTranslate.csproj.CoreCompileInputs.cache
+C:\Users\91999\source\repos\OptimizedTranslate\OptimizedTranslate\obj\Debug\OptimizedTranslate.exe
+C:\Users\91999\source\repos\OptimizedTranslate\OptimizedTranslate\obj\Debug\OptimizedTranslate.pdb
+C:\Users\91999\source\repos\OptimizedTranslate\OptimizedTranslate\obj\Debug\OptimizedTranslate.csprojAssemblyReference.cache
